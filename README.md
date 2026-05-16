@@ -1,6 +1,6 @@
 # calving97-ux
 Data Science | ESG Analytics | FinBERT
-### 👋 Hi, I’m Chenguang (Calvin) Wang
+👋 Hi, I’m Chenguang (Calvin) Wang
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![FinBERT](https://img.shields.io/badge/FinBERT-ESG-green)
 I’m a data-driven researcher focused on **sustainability accounting**, **ESG narrative analysis**, and **computational social science**.
 
